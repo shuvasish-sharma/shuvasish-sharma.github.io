@@ -10,6 +10,12 @@ title: Shuvasish Sharma
 
 ## 📘 Publications
 
+
+**Future of Jobs 2025 Report**  
+*World Economic Forum, 2025*  
+The flagship report analyzing global labor market trends, emerging roles, and skills needed for the jobs of tomorrow. 
+[Read the report](https://www.weforum.org/publications/future-of-jobs-report-2025/)
+
 **Matching Talent to the Jobs of Tomorrow: A Guidebook for Public Employment Services**  
 *World Economic Forum, 17 Feb 2025*  
 A five-step framework and case studies for public employment services to match talent with evolving job opportunities using technology.  
