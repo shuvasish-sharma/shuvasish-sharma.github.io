@@ -29,12 +29,12 @@ Explores how generative AI can augment jobs and workforce productivity, with cas
 **Global Digital Wellbeing Index 2024**  
 *King Abdulaziz Center for World Culture (Ithra) & Horizon Group, 2024*  
 Presents the first-ever Global Digital Wellbeing Index measuring the impact of digital technologies on human wellbeing across 35 countries.  
-[Download the report (PDF)](https://dwi-api.ithra.com/uploads/2024_Global_Digital_Wellbeing_Index_Report_9b3df1afc4.pdf)
+[Read the report (PDF)](https://dwi-api.ithra.com/uploads/2024_Global_Digital_Wellbeing_Index_Report_9b3df1afc4.pdf)
 
 **Future Possibilities Index (FPI) 2024**  
 *Horizon Group & Vantage Research, 2024*  
 Evaluates how 70 countries are positioned to take advantage of six key global transformational trends.  
-[View the report (PDF)](https://www.vantageresearchgroup.com/reports/FPI-report.pdf)
+[Read the report (PDF)](https://www.vantageresearchgroup.com/reports/FPI-report.pdf)
 
 ---
 
