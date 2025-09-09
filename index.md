@@ -60,7 +60,7 @@ Insights into the issues and solutions in developing sovereign ESG rating method
 
 ### [GeoStats Game](https://geostatsgame.com)  
 An interactive educational platform that transforms **World Bank data** into engaging geography and statistics quizzes.  
-Designed for students, educators, and enthusiasts, it promotes **data literacy, global awareness, and critical thinking** — all through play.  
+Designed for students, educators, and enthusiasts, it promotes **data literacy, global awareness, and critical thinking** - all through play.  
 [Visit GeoStats Game](https://geostatsgame.com)
 
 ---
