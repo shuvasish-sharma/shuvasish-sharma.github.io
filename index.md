@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Shuvasish Sharma
 ---
 # Shuvasish Sharma  
 **Publications, Blog Posts & Projects**
