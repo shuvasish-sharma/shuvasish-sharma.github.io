@@ -2,15 +2,10 @@
 layout: default
 title: Shuvasish Sharma
 ---
-
 # Shuvasish Sharma  
 **Publications, Blog Posts & Projects**
-
 ---
-
 ## 📘 Publications
-
-
 **Future of Jobs 2025 Report**  
 *World Economic Forum, 2025*  
 The flagship report analyzing global labor market trends, emerging roles, and skills needed for the jobs of tomorrow. 
@@ -37,17 +32,15 @@ Evaluates how 70 countries are positioned to take advantage of six key global tr
 [Read the report (PDF)](https://www.vantageresearchgroup.com/reports/FPI-report.pdf)
 
 ---
-
 ## ✍️ Blog Posts
-
 **The return-to-office paradox, and other trends in jobs and skills**  
 *World Economic Forum, 6 Aug 2025*  
 Part of the "Jobs and the Future of Work" series, exploring return-to-office trends, productivity, and flexibility.  
 [Read the article](https://www.weforum.org/stories/2025/08/return-to-office-flexibility-remote-work/)
 
-**How Asia’s booming gig economy is reshaping the future of work**  
+**How Asia's booming gig economy is reshaping the future of work**  
 *World Economic Forum, 26 Jun 2025*  
-Discusses Asia’s gig economy growth, worker challenges, and pathways to fair and sustainable work.  
+Discusses Asia's gig economy growth, worker challenges, and pathways to fair and sustainable work.  
 [Read the article](https://www.weforum.org/stories/2025/06/what-will-it-take-to-make-the-gig-economy-in-asia-fair-and-sustainable/)
 
 **Smart data, better jobs: How technology is transforming labour markets**  
@@ -61,12 +54,19 @@ Insights into the issues and solutions in developing sovereign ESG rating method
 [Read the article](https://www.horizon-group.ch/insights/navigating-the-complexities-of-sovereign-esg-ratings-from-challenges-to-solutions)
 
 ---
-
 ## 🚀 Projects
-
 ### [GeoStats Game](https://geostatsgame.com)  
 An interactive educational platform that transforms **World Bank data** into engaging geography and statistics quizzes.  
 Designed for students, educators, and enthusiasts, it promotes **data literacy, global awareness, and critical thinking** - all through play.  
 [Visit GeoStats Game](https://geostatsgame.com)
+
+---
+## 📧 Get in Touch
+
+I'm always interested in discussing research collaborations, speaking opportunities, or innovative projects in the future of work and digital transformation.
+
+**Connect with me:**
+- 📧 Email: [shuvasish.sarma@gmail.com](mailto:shuvasish.sarma@gmail.com)
+- 💼 LinkedIn: [Shuvasish Sharma](https://www.linkedin.com/in/shuvasishsharma/)
 
 ---
